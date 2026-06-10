@@ -7,7 +7,7 @@ I am a second year astrophysics PhD student at the University of Toronto. Much o
   * [**tambora**](https://github.com/sgpfaff/tambora): A modernized, pythonic N-body code.
   * [**orbitflows**](https://github.com/sgpfaff/orbitflows): ML-based method for finding invertible transformations between phase-space and action-angle coordinates.
 
-📫 _How to reach me:_
+📫 _How to reach me_
   * **Email**: gabriel.pfaffman@mail.utoronto.ca
 <!--
 
